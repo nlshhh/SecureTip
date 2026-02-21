@@ -1,0 +1,8 @@
+node_modules/
+
+# Environment variables (Secrets)
+.env
+
+# System files
+.DS_Store
+Thumbs.db
